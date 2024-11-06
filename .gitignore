@@ -1,4 +1,9 @@
 Makefile
 apagar_depois.txt
 teste.cpp
+list_example.cpp
+teste.txt
+.vscode/
+singlyLinkedList.h
+
 
