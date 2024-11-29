@@ -5,5 +5,11 @@ list_example.cpp
 teste.txt
 .vscode/
 singlyLinkedList.h
+set_example.cpp
+map_example.cpp
+graph.h
+testGraphs.cpp
+binaryTree.h
+testTree.cpp
 
 
