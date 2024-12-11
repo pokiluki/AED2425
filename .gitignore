@@ -11,5 +11,8 @@ graph.h
 testGraphs.cpp
 binaryTree.h
 testTree.cpp
+graph_1.h
+hashTableSC.h
+testHash.cpp
 
 
